@@ -1,6 +1,5 @@
 module Average
 
-export
 
 ||| Calculate the average length of words in a string.
 ||| @str a string containing words separated by whitespace.
